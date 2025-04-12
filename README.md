@@ -1,6 +1,7 @@
 # Python Basics for Data Analysis
 
 This project is a collection of Python exercises that demonstrate my understanding of fundamental programming concepts required for data analysis. It is based entirely on my completed course assignments.
+The exersises are done in Ukrainian, will be later translated to English.
 
 ## 📌 Topics Covered
 
